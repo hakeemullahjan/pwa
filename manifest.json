@@ -1,0 +1,16 @@
+{
+  "short_name": "Weather App",
+  "name": "Weather",
+  "description": "This app allows user to check real weather",
+  "icons": [
+    {
+      "src": "./assets/logo.png",
+      "sizes": "192x192 512x512 1024x1024",
+      "type": "image/x-icon"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
